@@ -70,15 +70,14 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79069916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Vizetelly &amp; Co.</dc:contributor>
-		<meta property="file-as" refines="#translator">Co., Vizetelly &amp;</meta>
+		<meta property="file-as" refines="#translator">Vizetelly &amp; Co.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Vizetelly &amp; Company</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Vizetelly_%26_Co.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50061643</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no91006244</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">George Washington Lambert</dc:contributor>
-		<meta property="file-as" refines="#artist">Lambert, George Washington</meta>
+		<dc:contributor id="artist">George Washington Thomas Lambert</dc:contributor>
+		<meta property="file-as" refines="#artist">Lambert, George Washington Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Washington_Lambert</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/rwo/agents/n97031880</meta>
+        <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97031880</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Juliet, Sutherland</meta>
