@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-18T19:26:15Z</dc:date>
+		<meta property="dcterms:modified">2026-05-18T19:26:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,16 +51,16 @@
 		<meta property="authority" refines="#subject-7">LCHS</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A former soldier seduces and manipulates women to rise through Parisian society.</dc:description>
+		<dc:description id="description">A former soldier seduces and manipulates women in order to rise through Parisian society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Georges Duroy comes back from military service in Algeria penniless. After meeting up with an old friend, he gets into journalism work at a renowned newspaper. He gradually climbs the ranks to chief-editor but all this time, he is using not his wit as a writer but clever manipulation of the women around him.&lt;/p&gt;
-			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant’s&lt;/a&gt; second novel and became an instant success. The book was first published in 1885 with 50 more editions in its first 2 years. This translation by Vizetelly &amp;amp; Co. came out in 1888. &lt;i&gt;Bel Ami&lt;/i&gt; shows the rampant corruption prevalent in 19th century French high society.&lt;/p&gt;
+			&lt;p&gt;Georges Duroy returns to Paris from military service in Algeria penniless. After meeting up with an old friend, he finds journalism work at a renowned newspaper. He gradually climbs the ranks to chief-editor—but all this time, he hasn’t been using his wit as a writer, but rather the clever manipulation of the women around him, to get ahead.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Bel Ami&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant’s&lt;/a&gt; second novel. It was first published in 1885 and was an instant success, with fifty more editions appearing in the following two years. This translation by Vizetelly &amp;amp; Co. was published in 1888. &lt;i&gt;Bel Ami&lt;/i&gt; shows the rampant corruption prevalent in 19th century French high society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33928</dc:source>
 		<dc:source>https://www.google.com/books/edition/A_ladies_man_tr_from_Bel_ami/IqGirC2izfcC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">108258</meta>
+		<meta property="se:reading-ease.flesch">71.75</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bel_Ami</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_bel-ami_vizetelly-co</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
@@ -99,6 +99,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
