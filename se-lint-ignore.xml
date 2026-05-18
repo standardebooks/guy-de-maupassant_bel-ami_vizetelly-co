@@ -3,7 +3,7 @@
 	<file path="chapter-6.xhtml">
 		<ignore code="y-031">
 			<line>143</line>
-			<reason>Lint warning is erroneous</reason>
+			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
